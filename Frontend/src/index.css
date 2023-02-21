@@ -1,0 +1,17 @@
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: linear-gradient(rgb(239, 193, 234), rgb(243, 188, 234));
+    overflow: auto;
+    font-size: x-large;
+}
+
+button, input, select, textarea {
+    font-size: x-large;
+}
+
+a {
+    color: blue;
+}

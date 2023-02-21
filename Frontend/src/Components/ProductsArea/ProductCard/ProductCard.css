@@ -1,0 +1,13 @@
+.ProductCard {
+	width: 400px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    background-image: linear-gradient( rgb(234, 212, 236), rgb(228, 180, 230));
+    display: inline-block;
+    overflow: auto;
+    text-align: left;
+}
